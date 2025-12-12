@@ -180,31 +180,31 @@ const Footer = () => {
               <h4 className="footer-heading">USEFUL LINKS</h4>
               <ul className="footer-links-list">
                 <li>
-                  <a href="/slviyengarbakery/" className="footer-link">
+                  <a href="/slv-iyengar-bakery/" className="footer-link">
                     <span className="link-icon"><FaHome /></span>
                     <span className="link-text">Home</span>
                   </a>
                 </li>
                 <li>
-                  <a href="/slviyengarbakery/about" className="footer-link">
+                  <a href="/slv-iyengar-bakery/about" className="footer-link">
                     <span className="link-icon"><FaInfoCircle /></span>
                     <span className="link-text">About Us</span>
                   </a>
                 </li>
                 <li>
-                  <a href="/slviyengarbakery/products" className="footer-link">
+                  <a href="/slv-iyengar-bakery/products" className="footer-link">
                     <span className="link-icon"><FaBirthdayCake /></span>
                     <span className="link-text">Products</span>
                   </a>
                 </li>
                 <li>
-                  <a href="/slviyengarbakery/connections" className="footer-link">
+                  <a href="/slv-iyengar-bakery/connections" className="footer-link">
                     <span className="link-icon"><FaHandshake /></span>
                     <span className="link-text">Connections</span>
                   </a>
                 </li>
                 <li>
-                  <a href="/slviyengarbakery/contact" className="footer-link">
+                  <a href="/slv-iyengar-bakery/contact" className="footer-link">
                     <span className="link-icon"><FaPhoneAlt /></span>
                     <span className="link-text">Contact Us</span>
                   </a>

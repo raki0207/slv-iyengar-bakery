@@ -154,7 +154,7 @@ function AppContentInner() {
 function AppContent() {
   return (
     // IMPORTANT FIX FOR GITHUB PAGES
-    <Router basename="/slviyengarbakery">
+    <Router basename="/slv-iyengar-bakery">
       <AppContentInner />
     </Router>
   );
